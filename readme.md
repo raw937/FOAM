@@ -6,7 +6,7 @@ http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4231724/
 
 The database itself (7G) and can be downloaded here: http://cbb.pnnl.gov/portal/software/FOAM.html
 
-Along with the Ontology (important) and the alignements (if you want to go dig into that). 
+Along with the Ontology (important) and the alignments (if you want to go dig into that). 
 
 WARNING: the format of the HMM only work with HMMER 3.0. If you want to use it with another verison, email me, there are a few changes to do. 
  
