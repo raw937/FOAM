@@ -5,6 +5,7 @@ In this repersitory you'll find script to run the HMM databas that we developped
 http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4231724/
 
 The database itself (7G) and can be downloaded here: http://cbb.pnnl.gov/portal/software/FOAM.html
+Now on OSF (August 2019): https://osf.io/5ba2v/
 
 Along with the Ontology (important) and the alignments (if you want to go dig into that). 
 
