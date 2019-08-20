@@ -1,6 +1,6 @@
 # FOAM: Functional Ontology Assignments for Metagenomes, a Hidden Markov Model (HMM) database with environmental focus
 
-In this repersitory you'll find script to run the HMM databas that we developped with @bioman (E. Prestat) in this paper: 
+In this repersitory you'll find script to run the HMM database that we developed with @bioman (E. Prestat) in this paper: 
 
 http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4231724/
 
